@@ -1,0 +1,3 @@
+gwpopulation=1.2.0
+gwpopulation_pipe=0.4.1
+jax
