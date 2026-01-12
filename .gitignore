@@ -1,11 +1,3 @@
-data/injections/*
-*/*/__pycache__
-*/__pycache__
-*/*/*/__pycache__
-old_result
-*/*/*/__pycache__
-data_release/*
-final_data.tar.gz
-*/*/*/*/__pycache__
-models/cosmology
+results.tar.gz
 results/*
+*__pycache__*

@@ -351,7 +351,7 @@ priors = dict(
         lam_0 = bilby.prior.DirichletElement(order=0, n_dimensions=3, label='lam_'),
         lam_1 = bilby.prior.DirichletElement(order=1, n_dimensions=3, label='lam_'),
         gap_low = bilby.prior.Uniform(20, 150),
-        gap_width = bilby.prior.Uniform(20, 150),
+        gap_width = bilby.prior.Uniform(0, 150),
         H0 = 67.90,
         Om0 = 0.3065,
     ),
