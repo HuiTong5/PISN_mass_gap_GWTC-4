@@ -1,8 +1,10 @@
-# Evidence of the pair instability gap in the distribution of black hole masses (arxiv/2509.04151)
+# Evidence of the pair instability gap in the distribution of black hole masses
+Code repository for arXiv:2509.04151.
+
 Corresponding author: Hui Tong (hui.tong@monash.edu)
 
 ## Description
-This repository contains the analysis scripts, models and results.
+This repository contains the analysis scripts, models. All results and the code required to reproduce the figures can be found on Zenodo (XXXX).
 
 ## Analysis
 
