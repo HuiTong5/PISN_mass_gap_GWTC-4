@@ -23,5 +23,5 @@ Posterior samples of GWTC-4 events and sensitivity estimate file used in hierarc
 
 ## Results
 
-Results of this study can be found under `data_release/`, including a notebook used to make the plots in our paper.
+The results and code used to reproduce the figures are available on Zenodo (xxxx).
 
